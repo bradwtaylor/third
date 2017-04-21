@@ -1,2 +1,2 @@
 # third
-placeholder for third link from portfolio site
+placeholder for third project from portfolio site
